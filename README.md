@@ -13,6 +13,8 @@ This project requires to train a object detector to detect all wheat heads in th
 
 Given training data is 3373 training images with size 1024x1024
 
+And testing data is 10 images with size 1024x1024(will be swapped to hiddenset when submit to kaggle)
+
 More information can be found in homepage of kaggle competition.
 
 [Kaggle Global Wheat Competition](https://www.kaggle.com/c/global-wheat-detection/overview)
