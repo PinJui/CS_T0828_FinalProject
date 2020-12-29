@@ -54,6 +54,12 @@ and by summing all the result, send all the result to weighted box fusion to fus
 
 Then we get the final predictions.
 
+Detail steps can be found in
+
+[Training](https://github.com/PinJui/CS_T0828_FinalProject/blob/main/Training_efficientdet_d5.ipynb)
+
+[Inference](https://github.com/PinJui/CS_T0828_FinalProject/blob/main/efficientdet-pseudo-labeling-tta-wbf.ipynb)
+
 ## Results
 
 We get the score using the method above.
