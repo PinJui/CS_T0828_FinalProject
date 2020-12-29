@@ -64,6 +64,10 @@ Detail steps can be found in
 
 We get the score using the method above.
 
-![scoreimg](imglink)
+![scoreimg](https://github.com/PinJui/CS_T0828_FinalProject/blob/main/src/result.png)
+
+The private leaderboard is shown below
+
+![lbimg](https://github.com/PinJui/CS_T0828_FinalProject/blob/main/src/1609237159294.jpg)
 
 ## Reference
