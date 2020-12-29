@@ -71,3 +71,17 @@ The private leaderboard is shown below
 ![lbimg](https://github.com/PinJui/CS_T0828_FinalProject/blob/main/src/1609237159294.jpg)
 
 ## Reference
+
+[Training-efficientdet](https://www.kaggle.com/shonenkov/training-efficientdet)
+
+[Inference-efficientdet](https://www.kaggle.com/shonenkov/inference-efficientdet)
+
+[WBF over TTA](https://www.kaggle.com/whurobin/wbf-over-tta-single-model-fasterrcnn-resnest)
+
+[WBF over TTA-Efficientdet](https://www.kaggle.com/shonenkov/wbf-over-tta-single-model-efficientdet)
+
+[WBF](https://github.com/ZFTurbo/Weighted-Boxes-Fusion)
+
+[Pseudo Labing](https://www.kaggle.com/kaushal2896/efficientdet-pseudo-labeling-wbf-tta)
+
+[Pseudo Labling2](https://www.kaggle.com/alexanderliao/effdet-d6-pl-s-bn-r-bb-a3-usa-eval-94-13-db?scriptVersionId=40133294)
